@@ -1,11 +1,14 @@
-
-# איך לשתף מיקום עם משפחה וחברים - לדעת תמיד איפה אני נמצא
+ ![Google Maps](https://www.google.com/images/branding/lockups/1x/lockup_maps_color_131x24dp.png)
+# איך לשתף מיקום עם משפחה וחברים - לדעת תמיד איפה אני
 
 **דרישות**
 - חשבון [GMAIL](https://gmail.com/)
 - טלפון חכם עם אינטרנט ונתוני מיקום
 
-1. **אפליקציית המפות של גוגל**  ![Google Maps](https://www.google.com/images/branding/lockups/1x/lockup_maps_color_131x24dp.png)
+
+  
+
+## 1. **אפליקציית המפות של גוגל** 
 
 
 אם לא מותקנת כבר אז תורידו כאן:
@@ -14,11 +17,11 @@
 
 [![Google Maps IOS](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Download_on_the_App_Store_Badge.svg/135px-Download_on_the_App_Store_Badge.svg.png)](https://apps.apple.com/us/app/google-maps/id585027354)
 
-ש 
-2. שיתוף המיקום **בזמן אמת**
+
+## 2. הגדרת שיתוף מיקום **בזמן אמת**
 
    
-   - באפליקצית המפות לוחצים על **שיתוף מיקום**
+   - באפליקציה לוחצים על **שיתוף מיקום**
    - בוחרים את החברים והמשפחה מאנשי הקשר
    - מסמנים את האפשרות השניה **עד להשבתת השיתוף**
    - כדי שתוכלו לשתף בלי הגבלת זמן(24 שעות) תוסיפו באנשי קשר של המשפחה את הכתובת מייל שלהם בג'ימייל. 
